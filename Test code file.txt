@@ -7,3 +7,7 @@ Autor : sugumaran
 2. chat screen code 
 
 3. last seen update
+
+4. Add files and image button.
+
+5. hiding last seen status.
