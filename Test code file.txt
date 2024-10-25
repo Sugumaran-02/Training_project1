@@ -11,3 +11,5 @@ Autor : sugumaran
 4. Add files and image button.
 
 5. hiding last seen status.
+
+6. Adding the status feature for put a status
