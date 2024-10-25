@@ -13,3 +13,5 @@ Autor : sugumaran
 5. hiding last seen status.
 
 6. Adding the status feature for put a status
+
+7. Adding the feature for the payment option
